@@ -1,5 +1,10 @@
 /* styles.css */
 h1 {
+.fascinate-inline-regular 
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 h2 { 
 font-family: Arial; 

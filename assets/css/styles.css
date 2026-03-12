@@ -11,5 +11,10 @@ font-family: Arial;
 } 
 
 p { 
+.offside-regular 
+  font-family: "Offside", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
-  {
+  

@@ -1,6 +1,6 @@
 /* styles.css */
 h1 {
-.fascinate-inline-regular 
+.fascinate-inline-regular {
   font-family: "Fascinate Inline", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -11,10 +11,15 @@ font-family: Arial;
 } 
 
 p { 
-.offside-regular 
+.offside-regular
   font-family: "Offside", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
-  
+  .backgroundImage { 
+    background-image: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
+	
+}

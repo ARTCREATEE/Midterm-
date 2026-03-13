@@ -7,7 +7,10 @@ h1 {
 }
 
 h2 { 
-font-family: Arial; 
+.offside-regular
+  font-family: "Offside", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 } 
 
 p { 

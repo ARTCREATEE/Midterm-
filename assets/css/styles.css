@@ -18,6 +18,6 @@ p {
 }
 
  body {
-  background-image: url('../assets/img/abstract-watercolor-sky.jpg);
+  background-image: url('..img/abstract-watercolor-sky.jpg);
  background-size: cover; 
   background-repeat: no-repeat; 

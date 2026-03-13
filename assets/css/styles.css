@@ -17,9 +17,7 @@ p {
   font-style: normal;
 }
 
-  .backgroundImage { 
-    background-image: url(..img/abstract-watercolor-sky.jpg);
-	width: 2000px;
-	height: 2000px;
-	
-}
+ body {
+  background-image: url('../assets/images/bground.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
